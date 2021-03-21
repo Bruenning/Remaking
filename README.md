@@ -20,8 +20,8 @@ npm run build
 npm run lint
 ```
 
-# Customize configuration
+### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### project
+# project
 Projeto para Recriar meu TCC do ensino médio técnico em vue e talvez node
