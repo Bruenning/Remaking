@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# project
+.gitignore
+package.json
+package-lock.json
+README.MD
