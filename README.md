@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### project
+Projeto para Recriar meu TCC do ensino médio técnico em vue e talvez node
